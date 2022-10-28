@@ -1,0 +1,29 @@
+body{
+	background-image: url('./Pizza-Ingredients-Pizza-Luxe.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.order-id-input {
+	width: 500px;
+	margin: auto;
+}
+
+.order-status-wrapper {
+	width: 600px;
+	margin: auto
+}
+
+.order-status-block {
+	width: 100%;
+	margin: 10px 0;
+	font-size: 1.2em;
+}
+
+#order-id-display {
+	display: none;
+}
+.btn-light {
+	background-color: antiquewhite;
+	border-color: black;
+}
